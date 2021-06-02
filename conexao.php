@@ -18,13 +18,4 @@ if($conexao -> connect_error) {
 
   }
 
-//=============== CONEXÃO OFICIAL ======================================
-
-//$conexao = new mysqli("localhost", "u496495623_viveiro", "Vs@135792", "u496495623_viveiro");
-
-//if($conexao -> connect_error) {
-
-  //echo "ERROR: " . $conexao->connect_error;
-//}
-
 ?>
